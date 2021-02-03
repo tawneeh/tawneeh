@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya! 👋 My name is Tawnee. Welcome to my GitHub 🏯
 
 <div>
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=tawneeh&show_icons=true&theme=synthwave&hide_border=true" width="49%"/>

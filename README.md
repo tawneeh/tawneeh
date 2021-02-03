@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<div>
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=tawneeh&show_icons=true&theme=synthwave&hide_border=true" width="49%"/>
  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawneeh&show_icons=true&theme=synthwave&layout=compact&hide_border=true&hide=smalltalk" width="49%"/>
+</div>
 
 <!--
 **tawneeh/tawneeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

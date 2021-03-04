@@ -1,6 +1,6 @@
-### Hiya, I'm Tawnee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub 🏯
+### Hi there, I'm Tawnee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub 🏯
 
-#### 🌱 I’m currently learning JavaScript and React!
+#### 🌱 I’m currently learning JavaScript and React
 
 #### 📫 How to reach me: tawneeh@icloud.com
 

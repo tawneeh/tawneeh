@@ -1,21 +1,13 @@
 ### Hiya, I'm Tawnee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub 🏯
 
+#### 🌱 I’m currently learning JavaScript and React!
+
+#### 📫 How to reach me: tawneeh@icloud.com
+
 <div>
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=tawneeh&show_icons=true&theme=synthwave&hide_border=true" width="49%"/>
+ 
+ <hr />
+ 
  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawneeh&show_icons=true&theme=synthwave&layout=compact&hide_border=true&hide=smalltalk" width="49%"/>
 </div>
-
-<!--
-**tawneeh/tawneeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

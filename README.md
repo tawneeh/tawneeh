@@ -5,6 +5,9 @@
 #### 📫 How to reach me: tawneeh@icloud.com
 
 <div>
+ 
+ <hr />
+ 
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=tawneeh&show_icons=true&theme=synthwave&hide_border=true" width="49%"/>
  
  <hr />

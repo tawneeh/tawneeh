@@ -10,9 +10,9 @@
 
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=tawneeh&show_icons=true&theme=synthwave&hide_border=true" width="49%"/>
 
- <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawneeh&show_icons=true&theme=synthwave&layout=compact&hide_border=true&hide=smalltalk" width="49%" />
+ <hr />
 
-</div>
+ <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawneeh&show_icons=true&theme=synthwave&layout=compact&hide_border=true&hide=smalltalk" width="49%" />
 
 <h2>Technologies</h2>
 
@@ -30,3 +30,5 @@
  <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" height=30 width=100 />
  <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100 />
 </p>
+
+</div>

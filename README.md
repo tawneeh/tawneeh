@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Tawnee!
+# Tawnee H
 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -8,25 +8,9 @@
 
 <br />
 
-### ⭐ I am currently building web apps primarily using Node.js, Next.js, Prisma and PostgreSQL ⭐
+### ⭐ Currently building full stack web apps primarily using Node.js, Next.js, Prisma and PostgreSQL ⭐
 
 </div>
-
-<hr />
-
-<div>
-
-When I'm not coding I'm probably...
-
-- 🚣 Kayaking
-- 📙 Reading
-- 🍪 Baking
-- 🎮 Gaming
-- 💬 Working on my Spanish language skills
-
-</div>
-
-<hr />
 
 <div align="center">
 

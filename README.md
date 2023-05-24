@@ -10,10 +10,6 @@
 
 ### ⭐ I am currently building full stack web apps primarily using Node.js, Next.js, Prisma, PostgreSQL, and Material UI ⭐
 
-### Contact Me on LinkedIn
-
-<a href="https://www.linkedin.com/in/tawneeh"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
 </div>
 
 <hr />

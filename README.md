@@ -8,7 +8,7 @@
 
 <br />
 
-### ⭐ I am currently building full stack web apps primarily using Node.js, Next.js, Prisma and PostgreSQL ⭐
+### ⭐ I am currently building web apps primarily using Node.js, Next.js, Prisma and PostgreSQL ⭐
 
 </div>
 

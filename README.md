@@ -1,14 +1,12 @@
 <div align="center">
 
-# Tawnee H
+# Tawnee H (she/her)
 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-##### Pronouns: **she/her/hers**
+  <img src="https://media.giphy.com/media/gHL0GceDO9omiSXFLQ/giphy.gif" width="30%">
 
 <br />
 
-### ⭐ Currently building full stack web apps primarily using Node.js, Next.js, Prisma and PostgreSQL ⭐
+### ⭐ Building full stack web apps primarily using Node.js, Next.js, Prisma and PostgreSQL ⭐
 
 </div>
 
